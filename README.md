@@ -130,4 +130,4 @@ For issues, questions, or contributions, please:
 3. Check existing documentation
 
 ---
-Made with ❤️ for empowering women in tech
+Made with ❤️ for empowering women in tech. 
