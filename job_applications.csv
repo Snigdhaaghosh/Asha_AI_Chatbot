@@ -1,0 +1,6 @@
+id,job_id,resume_id,status,applied_date
+1,1,1,Applied,2024-01-15
+2,2,2,Shortlisted,2024-01-16
+3,3,3,Rejected,2024-01-17
+4,4,4,Applied,2024-01-18
+5,5,5,Shortlisted,2024-01-19 

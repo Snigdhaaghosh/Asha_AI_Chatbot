@@ -1,0 +1,5 @@
+id,job_application_id,interview_date,interview_type,status,feedback
+1,1,2024-01-20,Technical,Completed,Good technical knowledge
+2,2,2024-01-21,HR,Completed,Strong communication skills
+3,4,2024-01-22,Technical,Scheduled,-
+4,5,2024-01-23,HR,Scheduled,- 
